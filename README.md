@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Turkey<br>✉️  You can contact me at esramulkpinarrr@gmail.com<br>🚀  I'm currently working on Oyak Renault<br>
+🌍  I'm based in Turkey<br>✉️  You can contact me at esranur.mulkpinar@gmail.com<br>🚀  I'm currently working on Oyak Renault<br>
 
 
 # 💻 Tech Stack:
