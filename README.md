@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Turkey<br>✉️  You can contact me at esranur.mulkpinar@gmail.com<br>🚀 
+🌍  I'm based in Turkey<br>✉️  You can contact me at esranur.mulkpinar@gmail.com<br>
 
 
 # 💻 Tech Stack:
