@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - **Tools & Platforms:** Git, Jira, Trello
 
 ## 📈 GitHub Stats
-![Esra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsraMulkpinar&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EsraMulkpinar)](https://git.io/streak-stats)
 
 ## 👯‍👯 How to Reach Me
 - **Email:** [esranur.mulkpinar@gmail.com](mailto:esranur.mulkpinar@gmail.com)
