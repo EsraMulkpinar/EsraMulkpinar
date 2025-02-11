@@ -1,8 +1,11 @@
 # Hi there, I'm Esra! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies.
+Welcome to my GitHub profile! 
+
+I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies.
 I graduated from Mersin University with a degree in Computer Engineering. My passion for computer science and technology drives me to learn new things every day. 
 This passion continually motivates me to improve myself and create innovative solutions. I place great importance on gaining experience, teamwork, and sharing knowledge.
+
 Here's a little bit about me:
 
 ## 🚀 About Me
