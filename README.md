@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EsraMulkpinar)](https://git.io/streak-stats)
 
-## 👯‍👯 How to Reach Me
+## 📞 How to Reach Me
 - **Email:** [esranur.mulkpinar@gmail.com](mailto:esranur.mulkpinar@gmail.com)
 - **LinkedIn:** [Esra Mulkpinar](https://www.linkedin.com/in/esramulkpinar/)
 - **Twitter:** [@EsraMulkpinar](https://twitter.com/EsraMulkpinar)
