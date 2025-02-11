@@ -14,14 +14,15 @@ Here's a little bit about me:
 - 🎓 Graduated with a degree in Computer Engineering
 
 ## 🔧 Technologies & Tools
-- **Languages:** JavaScript, TypeScript
-- **Frameworks & Libraries:** React, Angular, NextJS, React Native, Node.js, NestJS
-- **Databases:** PostgreSQL, MongoDB, MySQL
-- **Tools & Platforms:** Git, Jira, Trello
 
 <p>
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,angular,figma,notion,bitbucket,bootstrap,scss,tailwind,mongodb,postgres&perline=7" />
  </p>
+ 
+- **Languages:** JavaScript, TypeScript
+- **Frameworks & Libraries:** React, Angular, NextJS, React Native, Node.js, NestJS
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Tools & Platforms:** Git, Jira, Trello
 
 ## 📈 GitHub Stats
 
