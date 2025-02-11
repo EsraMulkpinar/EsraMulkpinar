@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - **Tools & Platforms:** Git, Jira, Trello
 
 ## 📈 GitHub Stats
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EsraMulkpinar)](https://git.io/streak-stats)
 
 ## 👯‍👯 How to Reach Me
