@@ -6,10 +6,6 @@ I'm a passionate software developer with a love for creating innovative solution
 I graduated from Mersin University with a degree in Computer Engineering. My passion for computer science and technology drives me to learn new things every day. 
 This passion continually motivates me to improve myself and create innovative solutions. I place great importance on gaining experience, teamwork, and sharing knowledge.
 
-<p>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,angular,figma,notion,bitbucket,bootstrap,scss,tailwind,mongodb,postgres&perline=7" />
- </p>
-
 Here's a little bit about me:
 
 ## 🚀 About Me
@@ -22,6 +18,10 @@ Here's a little bit about me:
 - **Frameworks & Libraries:** React, Angular, NextJS, React Native, Node.js, NestJS
 - **Databases:** PostgreSQL, MongoDB, MySQL
 - **Tools & Platforms:** Git, Jira, Trello
+
+<p>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,angular,figma,notion,bitbucket,bootstrap,scss,tailwind,mongodb,postgres&perline=7" />
+ </p>
 
 ## 📈 GitHub Stats
 
